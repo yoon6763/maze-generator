@@ -10,3 +10,10 @@ DFS를 공부중에 DFS를 통한 미로 생성기 영상을 보고 직접 만�
 <br><br><br>
 
 <img width="80%" src="https://github.com/yoon6763/maze-generator/assets/74063259/82645afa-87c6-4445-8687-57207b356008)https://github.com/yoon6763/maze-generator/assets/74063259/82645afa-87c6-4445-8687-57207b356008"/>
+
+
+<br><br>
+
+블로그에서 보기
+<br>
+https://uknowblog.tistory.com/370
